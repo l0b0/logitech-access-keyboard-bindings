@@ -1,0 +1,15 @@
+# Logitech Access keyboard - Enable F keys when F Lock is off
+setkeycodes e03b 59 # F1
+setkeycodes e03c 60 # F2
+setkeycodes e03d 61 # F3
+setkeycodes e03e 62 # F4
+setkeycodes e010 63 # F5
+setkeycodes e019 64 # F6
+setkeycodes e022 65 # F7
+setkeycodes e0a2 65 # F7
+setkeycodes e0a4 66 # F8
+setkeycodes e024 66 # F8
+setkeycodes e043 67 # F9
+setkeycodes e044 68 # F10
+setkeycodes e057 87 # F11
+setkeycodes e058 88 # F12
